@@ -1,3 +1,5 @@
+# Wizard101 (W101) Combat Calculator
+
 A calculator to determine the wizard's prospective damage calculated by:
 
 1) Base damage (dependent upon wizard's level / school)
